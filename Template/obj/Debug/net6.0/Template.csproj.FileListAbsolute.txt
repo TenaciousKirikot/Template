@@ -1,0 +1,15 @@
+C:\Users\Kirikot\source\repos\Template\Template\obj\Debug\net6.0\Template.csproj.AssemblyReference.cache
+C:\Users\Kirikot\source\repos\Template\Template\obj\Debug\net6.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirikot\source\repos\Template\Template\obj\Debug\net6.0\Template.AssemblyInfoInputs.cache
+C:\Users\Kirikot\source\repos\Template\Template\obj\Debug\net6.0\Template.AssemblyInfo.cs
+C:\Users\Kirikot\source\repos\Template\Template\obj\Debug\net6.0\Template.csproj.CoreCompileInputs.cache
+C:\Users\Kirikot\source\repos\Template\Template\bin\Debug\net6.0\Template.exe
+C:\Users\Kirikot\source\repos\Template\Template\bin\Debug\net6.0\Template.deps.json
+C:\Users\Kirikot\source\repos\Template\Template\bin\Debug\net6.0\Template.runtimeconfig.json
+C:\Users\Kirikot\source\repos\Template\Template\bin\Debug\net6.0\Template.dll
+C:\Users\Kirikot\source\repos\Template\Template\bin\Debug\net6.0\Template.pdb
+C:\Users\Kirikot\source\repos\Template\Template\obj\Debug\net6.0\Template.dll
+C:\Users\Kirikot\source\repos\Template\Template\obj\Debug\net6.0\refint\Template.dll
+C:\Users\Kirikot\source\repos\Template\Template\obj\Debug\net6.0\Template.pdb
+C:\Users\Kirikot\source\repos\Template\Template\obj\Debug\net6.0\Template.genruntimeconfig.cache
+C:\Users\Kirikot\source\repos\Template\Template\obj\Debug\net6.0\ref\Template.dll
